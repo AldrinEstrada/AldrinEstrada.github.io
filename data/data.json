@@ -1,0 +1,16 @@
+{
+    "person": {
+        "firstName": "aldrin",
+        "lastName": "estrada"
+    },
+    "work": {
+        "job": "student",
+        "program": "Digital Design and Development Diploma",
+        "url": "https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/?gclid=CjwKCAiA9qKbBhAzEiwAS4yeDe_hL4gV-xCqoQzX5xU6AXr_FpAsNR2qnDJH2dj0U-rBZ6m9nUHCzxoCxS8QAvD_BwE&gclsrc=aw.ds"
+    },
+    "study": {
+        "programs": ["Vector Graphics", "Photoshop", "Basic Systems Operations"],
+        "department": "School of Computing & Information Technology"
+
+    }
+}
